@@ -5,4 +5,4 @@ Check out our Latest DevOps PDF book.
 
 https://www.level-up.one/devops-pdf-book
 
-new update done on nov26th
+new update done on nov26th trigger
